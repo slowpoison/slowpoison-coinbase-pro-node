@@ -23,7 +23,7 @@ The Coinbase Pro API has both public and private endpoints. If you're only inter
 the public endpoints, you should use a `PublicClient`.
 
 ```js
-const CoinbasePro = require('coinbase-pro');
+const CoinbasePro = require('slowpoison-coinbase-pro');
 const publicClient = new CoinbasePro.PublicClient();
 ```
 
