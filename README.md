@@ -11,7 +11,7 @@
 ## Installation
 
 ```bash
-npm install coinbase-pro
+npm install slowpoison-coinbase-pro
 ```
 
 You can learn about the API responses of each endpoint [by reading our
