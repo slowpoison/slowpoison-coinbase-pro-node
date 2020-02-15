@@ -1,9 +1,4 @@
-# Coinbase Pro [![CircleCI](https://circleci.com/gh/coinbase/coinbase-pro-node.svg?style=svg)](https://circleci.com/gh/coinbase/coinbase-pro-node) [![npm version](https://badge.fury.io/js/coinbase-pro.svg)](https://badge.fury.io/js/coinbase-pro)
-
-**Note**: The `gdax` package is deprecated and might have to be removed from NPM.
-Please migrate to the `coinbase-pro` package to ensure future compatibility.
-
-The official Node.js library for Coinbase's [Pro API](https://docs.pro.coinbase.com/).
+**Note**: This is based on the now deprecated `coinbase-pro` package.
 
 ## Features
 
