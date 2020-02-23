@@ -1,6 +1,6 @@
 {
   "name": "slowpoison-coinbase-pro",
-  "version": "0.9.6",
+  "version": "0.9.7",
   "author": "slowpoison",
   "bugs": "https://github.com/slowpoison/slowpoison-coinbase-pro-node/issues",
   "contributors": [
@@ -30,8 +30,8 @@
     "bignumber.js": "^8.1.1",
     "bintrees": "^1.0.1",
     "request": "^2.88.2",
-    "slowpoison-ws": "^7.2.1",
-    "typescript": "^3.7.5"
+    "slowpoison-ws": "^7.2.3",
+    "typescript": "^3.8.2"
   },
   "description": "Slowpoison client for the Coinbase Pro API based on the official client",
   "devDependencies": {
